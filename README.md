@@ -1,4 +1,4 @@
-# ViktorIliev
+# Viktor Iliev
 👋 Hi, I’m @ViktorIliev03
 👀 I’m interested in ... programming with Java and researching curious things! It does not matter the field.
 🌱 I’m currently learning ... Java programming language
